@@ -6,11 +6,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **...**
+ 🔭 I’m currently working on **Van Lang University**
  
- 🌱 I’m currently learning **...**
+ 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
-💬 Ask me about **...**
+💬 Ask me about **Computer Vision**
 
 
  </div>
