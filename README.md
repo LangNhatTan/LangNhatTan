@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/lang nhat tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lang nhat tan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nobita275" height="30" width="40" /></a>
+<a href="https://kaggle.com/lang nhat tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tan5555" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="langnhattan2017" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nobita275" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nobita275" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nobita275" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nobita2705" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nobita275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="langnhati02l" height="30" width="40" /></a>
 </p>
 
