@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Van Lang University**
+ 🔭 I’m currently working on **Data Design Engineering**
  
  🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
